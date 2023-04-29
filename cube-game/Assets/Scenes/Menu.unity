@@ -806,7 +806,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: CUBETHON
+  m_text: cube game
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -941,7 +941,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: WELCOME
+  m_text: WELCOME TO
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 320a8c88aa4f5ae42acd3b69aded96a0, type: 2}
   m_sharedMaterial: {fileID: 3800124188212367654, guid: 320a8c88aa4f5ae42acd3b69aded96a0, type: 2}
