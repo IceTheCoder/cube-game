@@ -8,6 +8,10 @@ Blog: https://icethedev2.github.io/
 ## How to Play
 Open the cube-game subfolder in Unity and hit play.
 
+## Contributing
+I'd love to hear your suggestions on how I can improve this repo!  
+You can fork the project to play around with it and create a pull request to submit your suggestions. You can also open an issue to tell me about any problems my code might have.
+
 ## License
 This repository is licensed under the MIT license with an added attribution. In short, you must include the exact copy of this project's license in your end-user application and also mention the sections in which my code was used. Read LICENSE for more information.
 
