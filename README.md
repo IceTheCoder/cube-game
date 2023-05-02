@@ -1,5 +1,5 @@
 # cube-game
-A game based on Brackey's 'How to Make a Video Game' series
+A game based on Brackeys's 'How to Make a Video Game' series
 
 Use A and S to go left and right. You control a red cube and you must avoid grey cubes in order to make it to the end of the level.
 
