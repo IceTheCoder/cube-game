@@ -20,10 +20,10 @@ public class PlayerMovement : MonoBehaviour
         // Add a forward force
         Rb.AddForce(0, 0, forwardForce * Time.deltaTime); // Add a force of 2000 on the z-axis.
     
-        if (Input.GetKey("d")) {
+        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow)) {
             Rb.AddForce(sidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }
-        else if (Input.GetKey("a")) {
+        else if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow)) {
             Rb.AddForce(-sidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }
         if (Rb.position.y < -1f) {
