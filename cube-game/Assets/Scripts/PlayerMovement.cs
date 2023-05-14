@@ -10,6 +10,11 @@ public class PlayerMovement : MonoBehaviour
 
     // We marked this as FixedUpdate because we
     // are using it to mess with physics.
+    /// <summary>
+    /// Called 50 times per second, this function adds a force of 2000 on the z-axis,
+    /// and checks if the user is pressing the D, A, left arrow, or right arrows key,
+    /// to correctly move the player.
+    /// </summary>
     void FixedUpdate()
     {
         // Add a forward force
