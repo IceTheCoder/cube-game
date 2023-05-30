@@ -26,7 +26,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact
-Project Link: https://github.com/IceTheDev2/Passwordsy/  
+Project Link: https://github.com/IceTheDev2/cube-game/  
 
 Reddit: https://www.reddit.com/user/AnEntirePeach
 
