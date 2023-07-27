@@ -3,8 +3,6 @@ A game based on Brackeys's 'How to Make a Video Game' series
 
 Use A and S to go left and right. You control a red cube and you must avoid grey cubes in order to make it to the end of the level.
 
-Blog: https://icethedev2.github.io/
-
 ## How to Play
 Open the cube-game subfolder in Unity and hit play.
 
