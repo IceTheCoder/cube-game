@@ -24,13 +24,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact
-Project Link: https://github.com/IceTheDev2/cube-game/  
+Project Link: https://github.com/IceTheGameDev/cube-game/  
 
 Reddit: https://www.reddit.com/user/AnEntirePeach
 
-Youtube: https://www.youtube.com/channel/UCBqVJU4gjeik1RavAsVR6Pg
+Youtube: https://www.youtube.com/@IceTheGameDev
 
-E-mail: icethedev2@gmail.com
+E-mail: icethegamedev@yahoo.com
 
 ## Acknowledgements
 - Brackeys, for his [How to Make a Video Game series](https://youtu.be/j48LtUkZRjU) that inspired his project and for [this video](https://youtu.be/qpXxcvS-g3g)
